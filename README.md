@@ -16,7 +16,7 @@
 
 ## Week 2
 
-<img src="images/index.png" width="300" height="70" />
+<img src="images/tableau.png" width="300" height="70" />
 
 * [Lab | Tableau Charts: Challenge 1 & 2](https://public.tableau.com/profile/antonio.saleme#!/vizhome/ironhackfirstdaytableau/Challenge1_1)
 * [Lab | Tableau - Dynamic Filtering](https://public.tableau.com/profile/antonio.saleme#!/vizhome/Challenge3_1_16173153504630/Challenge3_1)
@@ -45,6 +45,9 @@
 * [Lab | Feature Extraction and Introduction to Supervised Learning](https://github.com/antonio-datahack/labs-antonio/blob/main/Week4/day%204/main_Pandas.ipynb)
 * [Lab | Random variable distributions](https://github.com/antonio-datahack/labs-antonio/blob/main/Week4/day%205/Lab%20%7C%20Random%20variable%20distributions.ipynb)
 
+## Week 5
+
+<img src="images/tableau2.png" width="300" height="80" />
 
 
 
