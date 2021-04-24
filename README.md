@@ -28,7 +28,12 @@
 <img src="images/sql-logo.jpeg" width="100" height="70" />
 
 * [Lab | SQL intro](https://github.com/antonio-datahack/labs-antonio/blob/main/Week3/day%201/Lab_sql_Intro.sql)
-
+* [Lab | SQL Queries - Lesson 2.5](https://github.com/antonio-datahack/labs-antonio/blob/main/Week3/day%202/Lab_sql_2.5.sql)
+* [Lab | SQL Queries - Lesson 2.6](https://github.com/antonio-datahack/labs-antonio/blob/main/Week3/day%202/Lab_sql_2.6.sql)
+* [Lab | SQL Queries 7](https://github.com/antonio-datahack/labs-antonio/blob/main/Week3/day%203/Lab_sql_queries_7.sql)
+* [Lab | SQL Queries 8](https://github.com/antonio-datahack/labs-antonio/blob/main/Week3/day%203/Lab_sql_queries_8.sql)
+* [Lab | SQL Joins on multiple tables](https://github.com/antonio-datahack/labs-antonio/blob/main/Week3/day%204/Lab_sql_joins.sql)
+* [Lab | End to End : SQL query & Data Cleaning/Wrangling in Python & Visualise in Python or Tableau](https://github.com/antonio-datahack/labs-antonio/blob/main/Week3/day%205/SQLtoPythonViz.ipynb)
 
 
 
