@@ -25,7 +25,7 @@
 
 ## Week 3
 
-<img src="images/mysql-logo.jpeg" width="100" height="70" />
+![](images/mysql-logo.png)
 
 * [Lab | SQL intro](https://github.com/antonio-datahack/labs-antonio/blob/main/Week3/day%201/Lab_sql_Intro.sql)
 * [Lab | SQL Queries - Lesson 2.5](https://github.com/antonio-datahack/labs-antonio/blob/main/Week3/day%202/Lab_sql_2.5.sql)
@@ -34,6 +34,23 @@
 * [Lab | SQL Queries 8](https://github.com/antonio-datahack/labs-antonio/blob/main/Week3/day%203/Lab_sql_queries_8.sql)
 * [Lab | SQL Joins on multiple tables](https://github.com/antonio-datahack/labs-antonio/blob/main/Week3/day%204/Lab_sql_joins.sql)
 * [Lab | End to End : SQL query & Data Cleaning/Wrangling in Python & Visualise in Python or Tableau](https://github.com/antonio-datahack/labs-antonio/blob/main/Week3/day%205/SQLtoPythonViz.ipynb)
+
+
+## Week 4
+
+<img src="images/machine-learning-2.jpg_fit=scale" width="100" height="70" />
+
+* [Lab | Predict the flower class!](https://github.com/antonio-datahack/labs-antonio/blob/main/Week4/day%202/Predict%20the%20flower%20class.ipynb)
+* [Lab | Data cleaning and wrangling](https://github.com/antonio-datahack/labs-antonio/blob/main/Week4/day%203/Data%20cleaning%20and%20wrangling.ipynb)
+* [Lab | Feature Extraction and Introduction to Supervised Learning](https://github.com/antonio-datahack/labs-antonio/blob/main/Week4/day%204/main_Pandas.ipynb)
+* [Lab | Random variable distributions](https://github.com/antonio-datahack/labs-antonio/blob/main/Week4/day%205/Lab%20%7C%20Random%20variable%20distributions.ipynb)
+
+
+
+
+
+
+
 
 
 
