@@ -25,7 +25,7 @@
 
 ## Week 3
 
-<img src="images/sql-logo.jpeg" width="100" height="70" />
+<img src="images/mysql-logo.jpeg" width="100" height="70" />
 
 * [Lab | SQL intro](https://github.com/antonio-datahack/labs-antonio/blob/main/Week3/day%201/Lab_sql_Intro.sql)
 * [Lab | SQL Queries - Lesson 2.5](https://github.com/antonio-datahack/labs-antonio/blob/main/Week3/day%202/Lab_sql_2.5.sql)
