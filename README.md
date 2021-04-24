@@ -4,7 +4,7 @@
 
 # Ironhack-Bootcamp
 
-### Week 1
+## Week 1
 
 ![](images/python-logo.png)
 
@@ -14,7 +14,7 @@
 * [Lab | Customer Analysis Round 3](https://github.com/antonio-datahack/labs-antonio/blob/main/Week1/day%204/lab_customer_analysis_round_3.ipynb)
 * [Lab | Customer Analysis Round 4](https://github.com/antonio-datahack/labs-antonio/blob/main/Week1/day%205/lab_customer_analysis_round_4.ipynb)
 
-### Week 2
+## Week 2
 
 <img src="images/index.png" width="300" height="70" />
 
@@ -22,5 +22,13 @@
 * [Lab | Tableau - Dynamic Filtering](https://public.tableau.com/profile/antonio.saleme#!/vizhome/Challenge3_1_16173153504630/Challenge3_1)
 * [Lab | Tableau Guided Analysis with Stories](https://public.tableau.com/profile/antonio.saleme#!/vizhome/LabTableauGuidedAnalysiswithStories/Story1)
 * [Lab | Machine Learning: Linear Regression](https://github.com/antonio-datahack/labs-antonio/blob/main/Week2/day%205/ML_linear_regression.ipynb)
+
+## Week 3
+
+<img src="images/sql-logo.jpeg" width="100" height="70" />
+
+* [Lab | SQL intro](https://github.com/antonio-datahack/labs-antonio/blob/main/Week3/day%201/Lab_sql_Intro.sql)
+
+
 
 
