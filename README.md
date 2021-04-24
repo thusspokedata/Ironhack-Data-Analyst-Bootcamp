@@ -19,6 +19,8 @@
 <img src="images/index.png" width="300" height="70" />
 
 * [Lab | Tableau Charts: Challenge 1 & 2](https://public.tableau.com/profile/antonio.saleme#!/vizhome/ironhackfirstdaytableau/Challenge1_1)
-* [Tableau - Dynamic Filtering](https://public.tableau.com/profile/antonio.saleme#!/vizhome/Challenge3_1_16173153504630/Challenge3_1)
+* [Lab | Tableau - Dynamic Filtering](https://public.tableau.com/profile/antonio.saleme#!/vizhome/Challenge3_1_16173153504630/Challenge3_1)
 * [Lab | Tableau Guided Analysis with Stories](https://public.tableau.com/profile/antonio.saleme#!/vizhome/LabTableauGuidedAnalysiswithStories/Story1)
 * [Machine Learning: Linear Regression](https://github.com/antonio-datahack/labs-antonio/blob/main/Week2/day%205/ML_linear_regression.ipynb)
+
+
