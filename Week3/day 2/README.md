@@ -24,10 +24,6 @@ The database is structured as follows:
 
 # Lab | SQL Queries - Lesson 2.6
 
-In this lab, you will be using the [Sakila](https://dev.mysql.com/doc/sakila/en/) database of movie rentals. You have been using this database for a couple labs already, but if you need to get the data again, refer to the official [installation link](https://dev.mysql.com/doc/sakila/en/sakila-installation.html).
-
-The database is structured as follows:
-![DB schema](https://education-team-2020.s3-eu-west-1.amazonaws.com/data-analytics/database-sakila-schema.png)
 
 <br><br>
 
