@@ -14,6 +14,8 @@
 * [Lab | Customer Analysis Round 3](https://github.com/antonio-datahack/labs-antonio/blob/main/Week1/day%204/lab_customer_analysis_round_3.ipynb)
 * [Lab | Customer Analysis Round 4](https://github.com/antonio-datahack/labs-antonio/blob/main/Week1/day%205/lab_customer_analysis_round_4.ipynb)
 
+* [First project](https://github.com/antonio-datahack/Week-1-Project)
+
 ## Week 2
 
 <img src="images/tableau.png" width="300" height="70" />
@@ -46,6 +48,10 @@
 * [Lab | Random variable distributions](https://github.com/antonio-datahack/labs-antonio/blob/main/Week4/day%205/Lab%20%7C%20Random%20variable%20distributions.ipynb)
 
 ## Week 5
+
+* [Second Project](https://github.com/marimor62/Midtermproject-Housing)
+
+## Week 6
 
 <img src="images/tableau2.png" width="300" height="80" />
 
