@@ -55,8 +55,8 @@
 <img src="images/tableau2.png" width="300" height="80" /> <img src="images/statistics.jpeg" width="300" height="80" /> 
 
 * [Lab | Tableau Dashboarding- peer review lab](https://public.tableau.com/profile/antonio.saleme#!/vizhome/dashboardpractice_16195553517610/Dashboard4)
-* [Lab | T tests and p values](https://github.com/antonio-datahack/labs-antonio/blob/main/week6/day%204/lab%20%7C%20T%20tests%20and%20p%20values.ipynb)
-
+* [Lab | T tests and p values](https://github.com/antonio-datahack/labs-antonio/blob/main/week6/day%204/T%20tests%20and%20p%20values/lab%20%7C%20T%20tests%20and%20p%20values.ipynb)
+* [Lab | Subsetting and Descriptive Stats (optional)](https://github.com/antonio-datahack/labs-antonio/blob/main/week6/day%204/Subsetting%20and%20Descriptive%20Stats/main.ipynb)
 
 
 
