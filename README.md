@@ -52,8 +52,7 @@
 
 ## Week 6
 
-<img src="images/tableau2.png" width="300" height="80" />
-
+<img src="images/tableau2.png" width="300" height="80" /> <img src="images/statistics.jpeg" width="300" height="80" /> 
 
 
 
