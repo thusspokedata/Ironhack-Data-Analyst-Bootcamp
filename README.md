@@ -57,6 +57,10 @@
 * [Lab | Tableau Dashboarding- peer review lab](https://public.tableau.com/profile/antonio.saleme#!/vizhome/dashboardpractice_16195553517610/Dashboard4)
 * [Lab | T tests and p values](https://github.com/antonio-datahack/labs-antonio/blob/main/week6/day%204/T%20tests%20and%20p%20values/lab%20%7C%20T%20tests%20and%20p%20values.ipynb)
 * [Lab | Subsetting and Descriptive Stats (optional)](https://github.com/antonio-datahack/labs-antonio/blob/main/week6/day%204/Subsetting%20and%20Descriptive%20Stats/main.ipynb)
+* [Lab | Dicts, Sets, and Tuples: Challenge 1](https://github.com/antonio-datahack/labs-antonio/blob/main/week6/day5/challenge-1.ipynb)
+* [Lab | Dicts, Sets, and Tuples: Challenge 2](https://github.com/antonio-datahack/labs-antonio/blob/main/week6/day5/challenge-2.ipynb)
+* [Lab | Dicts, Sets, and Tuples: Challenge 3](https://github.com/antonio-datahack/labs-antonio/blob/main/week6/day5/challenge-3.ipynb)
+* [Lab | Dicts, Sets, and Tuples: Challenge 4](https://github.com/antonio-datahack/labs-antonio/blob/main/week6/day5/challenge-4.ipynb)
 
 
 
