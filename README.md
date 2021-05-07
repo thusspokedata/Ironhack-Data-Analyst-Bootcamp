@@ -62,6 +62,12 @@
 * [Lab | Dicts, Sets, and Tuples: Challenge 3](https://github.com/antonio-datahack/labs-antonio/blob/main/week6/day5/challenge-3.ipynb)
 * [Lab | Dicts, Sets, and Tuples: Challenge 4](https://github.com/antonio-datahack/labs-antonio/blob/main/week6/day5/challenge-4.ipynb)
 
+## Week 7
+
+<img src="images/webscraping.jpeg" width="300" height="80" /> 
+
+* [Project | GNOD demonstrator](https://github.com/Tognolia/GNOD-music-demonstrators)
+
 
 
 
