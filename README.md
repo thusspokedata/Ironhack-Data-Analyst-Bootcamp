@@ -67,6 +67,10 @@
 <img src="images/webscraping.jpeg" width="250" height="80" /> 
 
 * [Project | GNOD demonstrator](https://github.com/Tognolia/GNOD-music-demonstrators)
+* [Lab | FBI list](https://github.com/antonio-datahack/labs-antonio/blob/main/week7/Lab%20%7C%20FBI%20list.ipynb)
+* [Lab | web scraping - top 10 languages](https://github.com/antonio-datahack/labs-antonio/blob/main/week7/Lab%20%7C%20web%20scraping%20-%20%20top%2010%20languages.ipynb)
+* [Lab | web scraping single page](https://github.com/antonio-datahack/labs-antonio/blob/main/week7/Lab%20%7C%20web%20scraping%20single%20page.ipynb)
+* [The 50 latest earthquakes info](https://github.com/antonio-datahack/labs-antonio/blob/main/week7/Lab%20%7C%20web%20scraping%20%7C%20the%2020%20latest%50earthquakes%20info.ipynb)
 
 ## Week 8
 
