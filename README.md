@@ -52,7 +52,7 @@
 
 ## Week 6
 
-<img src="images/tableau2.png" width="300" height="80" /> <img src="images/statistics.jpeg" width="300" height="80" /> 
+<img src="images/tableau2.png" width="250" height="80" /> <img src="images/statistics.jpeg" width="250" height="80" /> 
 
 * [Lab | Tableau Dashboarding- peer review lab](https://public.tableau.com/profile/antonio.saleme#!/vizhome/dashboardpractice_16195553517610/Dashboard4)
 * [Lab | T tests and p values](https://github.com/antonio-datahack/labs-antonio/blob/main/week6/day%204/T%20tests%20and%20p%20values/lab%20%7C%20T%20tests%20and%20p%20values.ipynb)
@@ -64,9 +64,15 @@
 
 ## Week 7
 
-<img src="images/webscraping.jpeg" width="300" height="80" /> 
+<img src="images/webscraping.jpeg" width="250" height="80" /> 
 
 * [Project | GNOD demonstrator](https://github.com/Tognolia/GNOD-music-demonstrators)
+
+## Week 8
+
+<img src="https://github.com/antonio-datahack/labs-antonio/blob/main/images/nlp.png" width="250" height="80" /> 
+
+* [NLP & Sentiment Analysis](https://github.com/antonio-datahack/labs-antonio/blob/main/week8/day1/Lab%20%7C%20NLP.ipynb)
 
 
 
