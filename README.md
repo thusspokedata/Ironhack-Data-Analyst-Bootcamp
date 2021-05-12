@@ -78,6 +78,7 @@
 
 * [Lab | NLP & Sentiment Analysis](https://github.com/antonio-datahack/labs-antonio/blob/main/week8/day1/Lab%20%7C%20NLP.ipynb)
 * [Lab | computer vision](https://github.com/antonio-datahack/labs-antonio/blob/main/week8/day2/Lab%20%7C%20Computer%20Vision.ipynb)
+* [Lab | random forest regressor](https://github.com/antonio-datahack/labs-antonio/blob/main/week8/day3/Lab%20%7C%20random%20forest%20regressor.ipynb)
 
 
 
