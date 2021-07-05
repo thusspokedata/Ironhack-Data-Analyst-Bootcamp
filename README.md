@@ -23,6 +23,7 @@
 * [Lab | Tableau - Dynamic Filtering](https://public.tableau.com/profile/antonio.saleme#!/vizhome/Challenge3_1_16173153504630/Challenge3_1)
 * [Lab | Tableau Guided Analysis with Stories](https://public.tableau.com/profile/antonio.saleme#!/vizhome/LabTableauGuidedAnalysiswithStories/Story1)
 * [Lab | Machine Learning: Linear Regression](https://github.com/antonio-datahack/labs-antonio/blob/main/Week2/day%205/ML_linear_regression.ipynb)
+* [Lab | Optional: Matplotlib-Seaborn plotting challenges](https://github.com/antonio-datahack/labs-antonio/blob/main/Week2/day%202/Matplotlib-seaborn%20plotting%20challenges.ipynb)
 
 ## Week 3
 
