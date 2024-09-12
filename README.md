@@ -13,7 +13,7 @@
 * [Lab | Customer Analysis Round 2](https://github.com/antonio-datahack/labs-antonio/blob/main/Week1/day%203/lab_customer-analysis-round-2.ipynb)
 * [Lab | Customer Analysis Round 3](https://github.com/antonio-datahack/labs-antonio/blob/main/Week1/day%204/lab_customer_analysis_round_3.ipynb)
 * [Lab | Customer Analysis Round 4](https://github.com/antonio-datahack/labs-antonio/blob/main/Week1/day%205/lab_customer_analysis_round_4.ipynb)
-* [First project](https://github.com/antonio-datahack/Week-1-Project)
+* [First project](https://github.com/Alexandre-Sommerkamp/Data-job-posting-analysis)
 
 ## Week 2
 
