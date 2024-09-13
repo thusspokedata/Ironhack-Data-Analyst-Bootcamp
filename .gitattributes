@@ -1,0 +1,5 @@
+# Ensure that Jupyter Notebooks are categorized as Jupyter Notebook
+*.ipynb linguist-language=Jupyter Notebook
+
+# Exclude the 'notebooks' folder from language statistics
+notebooks/* linguist-vendored
